@@ -24,7 +24,7 @@ Representa:
 
 ---
 
-## 📤 Salida esperada
+##  Salida esperada
 Archivo generado: `salida_matrix.txt`  
 Contenido:
 |-24.00|18.00|5.00|
@@ -55,5 +55,5 @@ Matriz inversa
 Redondeado a 2 decimales según el programa.
 
 ---
-Recordar que puedes utilizarla matriz inversa de 2x2, 3x3 ,4x4 te  mostrará los datos 
+Recordar que puedes utilizar la matriz inversa de 2x2, 3x3 ,4x4 te  mostrará los datos 
 
