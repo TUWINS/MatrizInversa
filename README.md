@@ -33,29 +33,25 @@ Contenido:
 
 
 ---
+|       | Col 1 | Col 2 | Col 3 |
+|------:|------:|------:|------:|
+| Fila 1 |   1   |   2   |   3   |
+| Fila 2 |   0   |   1   |   4   |
+| Fila 3 |   5   |   6   |   0   |
 
-## Resultado explicado
-La inversa de:
 
-\[
-A=
-\begin{pmatrix}
-1 & 2 & 3 \\
-0 & 1 & 4 \\
-5 & 6 & 0
-\end{pmatrix}
-\]
+Matriz inversa 
+𝐴
+−
+1
+A
+−1
 
-es:
-
-\[
-A^{-1}=
-\begin{pmatrix}
--24 & 18 & 5 \\
-20 & -15 & -4 \\
--5 & 4 & 1
-\end{pmatrix}
-\]
+|       | Col 1 | Col 2 | Col 3 |
+|------:|------:|------:|------:|
+| Fila 1 |  -24 |   18  |   5   |
+| Fila 2 |   20 |  -15  |  -4   |
+| Fila 3 |   -5 |   4   |   1   |
 
 Redondeado a 2 decimales según el programa.
 
