@@ -27,9 +27,11 @@ Representa:
 ## 📤 Salida esperada
 Archivo generado: `salida_matrix.txt`  
 Contenido:
--24.00 18.00 5.00
-20.00 -15.00 -4.00
--5.00 4.00 1.00
+
+|-24.00|18.00|5.00|
+|20.00 |-15.00|-4.00|
+|-5.00 |4.00|1.00|
+
 
 
 ---
@@ -41,11 +43,7 @@ Contenido:
 
 
 Matriz inversa 
-𝐴
-−
-1
-A
-−1
+
 
 |       | Col 1 | Col 2 | Col 3 |
 |------:|------:|------:|------:|
