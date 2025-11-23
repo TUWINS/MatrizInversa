@@ -1,7 +1,7 @@
 # MatrizInversa.java - README (Ejemplo 3×3)
 
 ##  Descripción
-`MatrizInversa.java` es un programa que calcula la **inversa de una matriz cuadrada**  leyendo desde archivo y generando un archivo de salida.
+`MatrizInversa.java` es un programa que calcula la **inversa de una matriz **  leyendo desde archivo y generando un archivo de salida.
 
 ---
 
